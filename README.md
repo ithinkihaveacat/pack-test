@@ -1,3 +1,5 @@
+Sample project to illustrate https://github.com/pikapkg/pack/issues/6.
+
 ```sh
 $ npm i
 npm WARN pack-test@1.0.0 No description
